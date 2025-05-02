@@ -1,0 +1,12 @@
+/* style.css */
+.amazon-btn {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+  }
+  
+  .amazon-btn:hover {
+    background-color: #e68a00;
+    color: white;
+  }
+  
